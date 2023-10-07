@@ -6,6 +6,6 @@ public class Main {
     int gg = new Scanner(System.in).nextInt();
     System.out.println("введите число другое блядь");
     int gg1 = new Scanner(System.in).nextInt();
-    System.out.println(gg *gg1 );
+    System.out.println(gg+ gg1 * 55 );
     }
 }
